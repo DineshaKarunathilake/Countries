@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Countries</string>
+    <string name="list_error">Error occured while fetching countries list</string>
+</resources>
